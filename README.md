@@ -1,1 +1,3 @@
-"# ILanding_Ventures" 
+![Screenshot (11)](https://github.com/user-attachments/assets/a74575cb-297b-44dd-bce8-2e701c3d3b2b)
+
+iLanding is a free template suitable for a variety of corporate services. It is a business template that showcases all the services of your company in an organized style. The one-page theme is built using Bootstrap 5, HTML5, and CSS3. It has an intuitive layout with several responsive UIs. There is a collapsible burger menu and a sticky top navigation bar with a multilevel dropdown menu bar. It has a hero header with a hero image and a YouTube player. The theme also includes a pricing table, accordions, FAQ section, testimonial section, contact form UI, back-to-top button, sliders, call-to-action buttons, on-hover effect, tabbed contents, a detailed footer, and more. Additionally, it is a fully responsive theme and runs on small to large screens flawlessly.
